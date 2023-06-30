@@ -1,0 +1,1 @@
+<?php $TempCelsius='14.00'; echo $TempCelsius; ?>

@@ -1,0 +1,1 @@
+<?php $Humidity=''; echo $Humidity; ?>

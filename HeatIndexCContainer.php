@@ -1,0 +1,1 @@
+<?php $HeatIndexF='13.28'; echo $HeatIndexF; ?>
