@@ -1,1 +1,1 @@
-StudentLicenta.github.io
+studentlicenta.github.io
